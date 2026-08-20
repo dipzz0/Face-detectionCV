@@ -3,11 +3,16 @@ RetinaFace is a deep learning-based face detection model designed to accurately 
 The model identifies each detected face by generating a bounding box around it. Its accuracy and robustness make it suitable for various real-world computer vision applications.
 
 Software Requirements
--Google Colab
--Python 3.x
--RetinaFace Library
--OpenCV
--Image containing one or more faces
+
+Google Colab
+
+Python 3.x
+
+RetinaFace Library
+
+OpenCV
+
+Image containing one or more faces
 
 Procedure (Step-by-Step)
 
@@ -40,11 +45,13 @@ Upload an image containing one or more faces.
 
 <img width="696" height="390" alt="image" src="https://github.com/user-attachments/assets/06e9ca5b-271e-4828-bd78-8089bc9f5f50" />
 
+
 Output Image:
 
 The RetinaFace model detects the faces and draws bounding boxes around them.
 
 <img width="702" height="394" alt="image" src="https://github.com/user-attachments/assets/d5742f37-fe03-405a-82d6-eeecbfbb8019" />
+
 
 Result
 
