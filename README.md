@@ -4,15 +4,16 @@ The model identifies each detected face by generating a bounding box around it. 
 
 Software Requirements
 
-Google Colab
+- Google Colab
 
-Python 3.x
+- Python 3.x
 
-RetinaFace Library
+- RetinaFace Library
 
-OpenCV
+- OpenCV
 
-Image containing one or more faces
+- Image containing one or more faces
+
 
 Procedure (Step-by-Step)
 
@@ -36,6 +37,7 @@ Draw a bounding box around each detected face.
 
 Step 7:
 Display the output image with the detected faces.
+
 
 Example
 
