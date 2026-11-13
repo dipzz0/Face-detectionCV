@@ -1,7 +1,7 @@
 <h1 align="center">Face-detectionCV</h1>
 
 <p align="center">
-  <a href="https://colab.research.google.com/github/dipzz0/Face-detectionCV/blob/main/Face-detection.py" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
+  <a href="https://colab.research.google.com/github/dipzz0/Face-detectionCV/blob/main/Face-detection.ipynb" target="_blank"><img src="https://img.shields.io/badge/Open_In_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Open In Colab"></a>
   <img src="https://img.shields.io/badge/Model-RetinaFace_SOTA-10b981?style=for-the-badge" alt="RetinaFace">
   <img src="https://img.shields.io/badge/Vision-OpenCV_4.x-5c8cb8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <img src="https://img.shields.io/badge/Architecture-Feature_Pyramid-3b82f6?style=for-the-badge" alt="Feature Pyramid">
